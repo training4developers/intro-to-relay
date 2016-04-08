@@ -1,1 +1,1 @@
-# intro-to-graphql
+# intro-to-relay
